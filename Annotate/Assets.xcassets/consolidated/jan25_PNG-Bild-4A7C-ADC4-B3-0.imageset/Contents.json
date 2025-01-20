@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "jan25_PNG-Bild-4A7C-ADC4-B3-0.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

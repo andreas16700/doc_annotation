@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "jan24_PNG-Bild-41DE-94B6-9D-0.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

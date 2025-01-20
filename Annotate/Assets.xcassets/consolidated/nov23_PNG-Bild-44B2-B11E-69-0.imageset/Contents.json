@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "nov23_PNG-Bild-44B2-B11E-69-0.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

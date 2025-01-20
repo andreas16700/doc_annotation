@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "aug24_PNG-Bild-431F-BFB6-B2-0.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
