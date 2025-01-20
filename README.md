@@ -15,7 +15,7 @@ Each bounding box can be either:
 -Tables
 -Date
 
-![](cover.jpeg)
+![](parts.jpeg)
 - **0. Focused Bounding Box:** There is an idea of the focused bounding box to help differentiate which to operate on. A single box is more prominent than the others, indicating it is the newest box added. The focus switches upon interacting with a different box.
 - **1. Progress Indicator:** Shows how much has been annotated.
 - **2. Navigation Arrows:** Backward and forward arrows make switching between images instant.
